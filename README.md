@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Cloud Engineer at Google and currently working on the Apigee DevRel repository for adding features to the Sackmesser tool
+I am a Cloud Engineer at Google.
 
 
 ## 🌐 Socials:
